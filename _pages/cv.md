@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Physics, Universitas Indonesia, 2024
+* B.S. in Applied Physics, Federal Urdu University of Arts Science and Technology, Islamabad, 2019
+* Associate Bachelor in Mathematics (A+B) and Physics, University of the Punjab, 2017
 
 Work experience
 ======
