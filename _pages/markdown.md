@@ -7,25 +7,32 @@ redirect_from:
   - /markdown.html
 ---
 
-## Latest Recommendation Letters from Universitas Indonesia
+## Latest Recommendations from Universitas Indonesia
 
 * <i>Associate Professor</i> Dr. Muhammad Aziz Majidi
+  * <b> Email: </b> aziz.majidi@sci.ui.ac.id
   * Main Supervisor during Master Research
   * Principal Investigator (PI) of the research group
   * Instructor of Two Courses
 
     
 * <i>Associate Professor</i> Dr. Ressa Suhardiman Said
+  * <b> Email: </b> ressa.said@uni-ulm.de
   * Co-supervisor during Master Research
   * Collaborator from Ulm University, Ulm, Germany
 
 
 * <i>Associate Professor</i> Dr. Adam Badra Cahaya
+  * <b> Email: </b> adam@sci.ui.ac.id
   * Thesis Examiner
   * Instructor of Two Courses
     
 
-## Tips and hints
+## Recommendations from Previous Universities
+
+* <i>Associate Professor</i> Dr. Orang Zaib
+*  <i>Associate Professor</i> Dr. Muhammad Imran Shahzad
+
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version GitHub built with Jekyll. 
