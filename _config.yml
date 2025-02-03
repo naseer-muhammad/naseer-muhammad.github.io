@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Naseer_Speech.jpg"
+  avatar           : "Naseer_Speech.png"
   name             : "Naseer Muhammad"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in the field of Quantum Systems"
