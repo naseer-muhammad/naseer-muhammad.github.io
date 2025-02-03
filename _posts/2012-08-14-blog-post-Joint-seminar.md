@@ -1,6 +1,6 @@
 ---
 title: 'Physics Joint Workshop'
-date: 2012-08-14
+date: 2023-11-16
 permalink: /posts/2012/08/blog-post-1/
 tags:
   - cool posts
