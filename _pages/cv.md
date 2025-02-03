@@ -11,26 +11,30 @@ redirect_from:
 
 Education
 ======
-* M.S. in Physics, Universitas Indonesia, 2024
-* B.S. in Applied Physics, Federal Urdu University of Arts Science and Technology, Islamabad, 2019
-* Associate Bachelor in Mathematics (A+B) and Physics, University of the Punjab, 2017
+* M.S. in Physics, Universitas Indonesia, Aug 2022 - Aug 2024
+* B.S. in Applied Physics, Federal Urdu University of Arts Science and Technology, Islamabad, Oct 2017 - Nov 2019
+* Associate Bachelor in Mathematics (A+B) and Physics, University of the Punjab, Aug 2014 - Aug 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Research Assistant (GRA), Universiti Sains Malayasia (USM), Penang, Malaysia |April 2022
+  * Production of Graphene Oxide from Coconut Biomass
+  * Analysis of produced Grapehen Oxide
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Lecturer: ICMS College System, Peshawer, Pakistan |April 2021- March 2022
+  * Instructor of Course:
+    * Waves and Optics
+    * Electromagnetism
+    * Introduction to Quantum Mechanics
+  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Subject Instructor: Civil School and College, Rawalpindi, Pakistan |Nov 2019 - April 2021
+  * Instructor of High School Mathematics and Physics
+  * Won the <b> Best Science Teacher </b> Award
+ 
+* Subject Instructor: Kainat School System, Rawalpindi, Pakistan |Aug 2016 - April 2017
+  * Instructor of Mathematics and Physics
+
   
 Skills
 ======
