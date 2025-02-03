@@ -16,13 +16,13 @@ redirect_from:
   * Instructor of Two Courses
 
     
-* <i>Associate Professor</i> Dr. Ressa Suhardiman Said
+* <i>Assistant Professor</i> Dr. Ressa Suhardiman Said
   * <b> Email: </b> ressa.said@uni-ulm.de
   * Co-supervisor during Master Research
   * Collaborator from Ulm University, Ulm, Germany
 
 
-* <i>Associate Professor</i> Dr. Adam Badra Cahaya
+* <i>Assistant Professor</i> Dr. Adam Badra Cahaya
   * <b> Email: </b> adam@sci.ui.ac.id
   * Thesis Examiner
   * Instructor of Two Courses
@@ -30,6 +30,6 @@ redirect_from:
 
 ## Recommendations from Previous Universities
 
-* <i>Associate Professor</i> Dr. Orang Zaib
-*  <i>Associate Professor</i> Dr. Muhammad Imran Shahzad
+* <i>Assistant Professor</i> Dr. Orang Zaib
+* <i>Assistant Professor</i> Dr. Muhammad Imran Shahzad
 
