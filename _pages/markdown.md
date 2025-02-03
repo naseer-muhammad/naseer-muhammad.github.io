@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Latest Recommendations from Universitas Indonesia
+##Recommendations from Universitas Indonesia
 
 * <i>Associate Professor</i> Dr. Muhammad Aziz Majidi
   * <b> Email: </b> aziz.majidi@sci.ui.ac.id
