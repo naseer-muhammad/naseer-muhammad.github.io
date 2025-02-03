@@ -9,20 +9,21 @@ redirect_from:
 
 ## Latest Recommendation Letters from Universitas Indonesia
 
-* <i>Associate Professor</i> Dr. Aziz Majidi
-  * Main Supervisor during Master Thesis
+* <i>Associate Professor</i> Dr. Muhammad Aziz Majidi
+  * Main Supervisor during Master Research
   * Principal Investigator (PI) of the research group
-  * Instructor of 2 Courses
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+  * Instructor of Two Courses
+
+    
+* <i>Associate Professor</i> Dr. Ressa Suhardiman Said
+  * Co-supervisor during Master Research
+  * Collaborator from Ulm University, Ulm, Germany
+
+
+* <i>Associate Professor</i> Dr. Adam Badra Cahaya
+  * Thesis Examiner
+  * Instructor of Two Courses
+    
 
 ## Tips and hints
 
