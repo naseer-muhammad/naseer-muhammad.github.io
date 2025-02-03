@@ -2,7 +2,7 @@
 title: "Optimizing Control of a Hybrid Quantum System of Nitrogen-Vacancy Centers and Superconducting Transmon Qubits"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: (https://iopscience.iop.org/article/10.1088/1742-6596/2866/1/012080)
 date: 2024-10-22
 venue: 'Journal of Physics: Conference Series'
 paperurl: "(https://iopscience.iop.org/article/10.1088/1742-6596/2866/1/012080)"
