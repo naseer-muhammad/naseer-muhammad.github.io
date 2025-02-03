@@ -1,16 +1,18 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "References"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Latest Recommendation Letters from Universitas Indonesia
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
+* <i>Associate Professor</i> Dr. Aziz Majidi
+  * Main Supervisor during Master Thesis
+  * Principal Investigator (PI) of the research group
+  * Instructor of 2 Courses
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
   * _publications/
