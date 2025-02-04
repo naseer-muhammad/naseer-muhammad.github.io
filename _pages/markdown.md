@@ -30,6 +30,10 @@ redirect_from:
 
 ## Recommendations from Previous Universities
 
-* <i>Assistant Professor</i> Dr. Orang Zaib
+* <i>Assistant Professor</i> Dr. Aurang Zeb
+  * <b> Email: </b> aurangzeb.babar@fuuast.edu.pk
+ 
+    
 * <i>Assistant Professor</i> Dr. Muhammad Imran Shahzad
+  * <b> Email: </b> ishahzad@fuuast.edu.pk
 
