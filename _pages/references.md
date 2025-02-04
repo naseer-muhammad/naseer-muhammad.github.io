@@ -19,7 +19,7 @@ redirect_from:
 * <i>Assistant Professor</i> Dr. Ressa Suhardiman Said
   * <b> Email: </b> ressa.said@uni-ulm.de
   * Co-supervisor during Master Research
-  * Collaborator from Ulm University, Ulm, Germany
+  * Collaborator from Universität Ulm, Ulm, Germany
 
 
 * <i>Assistant Professor</i> Dr. Adam Badra Cahaya
