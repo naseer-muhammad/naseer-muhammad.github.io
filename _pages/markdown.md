@@ -28,7 +28,7 @@ redirect_from:
   * Instructor of Two Courses
     
 
-## Recommendations from Previous Universities
+## Recommendations from Bachelor's University
 
 * <i>Assistant Professor</i> Dr. Aurang Zeb
   * <b> Email: </b> aurangzeb.babar@fuuast.edu.pk
