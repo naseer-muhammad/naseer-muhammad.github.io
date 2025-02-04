@@ -51,18 +51,21 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Research Interests
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Online Courses
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Project Manager (inter-university event)
+* Community Representative (Representative of International Community at USM during COVID-19)
+* Hostel Representative
+* Educationist (Volunteer for 2 weeks in Indonesia)
