@@ -1,5 +1,5 @@
 ---
-title: "Quantum Communication and Quantum Memory with Hybrid Systems"
+title: "Quantum Communication and Quantum Memory with Hybrid Quantum Systems"
 ---
 
 Quantum communication and memory are essential for developing a scalable quantum internet, where quantum information must be reliably stored, transferred, and retrieved. Hybrid quantum systems, particularly NV centers in diamond and superconducting transmon qubits, provide a promising solution by combining the strengths of both platforms. NV centers have long spin coherence times, making them ideal quantum memory nodes, while superconducting qubits offer fast quantum processing capabilities. Coupling these two systems through transmission line resonators allows for efficient quantum state transfer between microwave and optical regimes, enabling long-distance quantum communication and the development of quantum repeaters.
