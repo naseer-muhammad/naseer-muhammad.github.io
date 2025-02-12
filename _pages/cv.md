@@ -39,12 +39,16 @@ Work experience
 Skills
 ======
 * Programming Skills (C, C++, Fortran)
-* python for Quantum Simulation (QuTiP, Qiskit, ProjectQ)
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* python for Quantum Dynamics & Simulation
+  * QuTiP for the dynamics of quantum systems 
+  * Qiskit for simulation of quantum circuits
+  * ProjectQ
+  * Pandas, Numpy, Matplotlib
+* Deep Learning (Tensorflow, Pytorch)
+* LabVIEW 16.0
+* MATLAB
+* ORIGINLAB
+* LaTeX
 
 Publications
 ======
