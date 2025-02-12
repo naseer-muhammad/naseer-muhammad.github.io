@@ -38,7 +38,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Programming Skills (C, C++, Fortran)
+* python for Quantum Simulation (QuTiP, Qiskit, ProjectQ)
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
