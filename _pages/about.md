@@ -1,8 +1,10 @@
-
 ---
 permalink: /
-title: "Home"
+title: "Welcome to Naseer's Academic website"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 <div class="hero">
@@ -10,7 +12,8 @@ author_profile: true
   <p class="hero-subtitle">Physicist | Quantum Systems | Quantum Optics | Quantum Computing</p>
 </div>
 
----
+Thanks for visiting my website!  
+You can find all the relevant information about me here
 
 # Welcome
 
