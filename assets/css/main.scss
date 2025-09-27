@@ -61,3 +61,119 @@
   font-weight: 300;
   color: #f1f1f1;
 }
+
+@media (max-width: 600px) {
+  .hero-title {
+    font-size: 2em;
+  }
+  .hero-subtitle {
+    font-size: 1em;
+  }
+}
+/* --- Hover effect for links --- */
+
+
+
+/* Hover & Interactivity Styles */
+
+/* General link hover */
+a:hover {
+  color: #555; // match your hero gray theme
+  transition: color 0.3s ease;
+}
+
+/* Project cards hover */
+.project-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
+  }
+}
+
+/* Buttons hover */
+button,
+.btn {
+  transition: background-color 0.3s ease, transform 0.2s ease;
+
+  &:hover {
+    background-color: #555; // gray hover
+    color: white;
+    transform: translateY(-2px);
+  }
+}
+
+/* ===================== */
+/* Navbar Hover Styling  */
+/* ===================== */
+
+/* Target navbar links */
+.navbar a,
+.site-header a,
+.site-nav a {
+  color: inherit; // keeps the default text color
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.navbar a:hover,
+.site-header a:hover,
+.site-nav a:hover {
+  color: #555; // match hero gray theme
+}
+
+
+/* =========================
+   Portfolio Card Hover Effects
+   ========================= */
+.archive__item {
+  background: #fff; /* white background for clean look */
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.archive__item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.archive__item-title a {
+  transition: color 0.3s ease;
+}
+
+.archive__item-title a:hover {
+  color: #666; /* matches your hero gray theme */
+}
+
+
+/* =========================
+   Hero Section Animations
+   ========================= */
+.hero {
+  animation: fadeInHero 1.2s ease-in-out;
+}
+
+.hero-title {
+  opacity: 0;
+  animation: slideUp 1s ease forwards;
+  animation-delay: 0.3s;
+}
+
+.hero-subtitle {
+  opacity: 0;
+  animation: slideUp 1s ease forwards;
+  animation-delay: 0.6s;
+}
+
+@keyframes fadeInHero {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { transform: translateY(30px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
