@@ -2,7 +2,7 @@
 title: "Master’s Thesis – Quantum Optimal Control of Hybrid Quantum Systems"
 collection: portfolio
 permalink: /portfolio/masters-thesis
-date: 2024-08-29
+date: 2024-07-29
 excerpt: "Completed Master’s thesis on optimal control techniques for NV centers and superconducting transmons."
 ---
 
