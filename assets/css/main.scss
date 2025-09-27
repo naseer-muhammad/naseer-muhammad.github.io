@@ -1,14 +1,25 @@
 ---
 ---
 
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
+
 @import 
     "vendor/breakpoint/breakpoint",
+
     "themes",
     "theme/{{ site.site_theme | default: 'default' }}",
+
     "include/mixins",
     "vendor/susy/susy",
+
     "layout/reset",
     "layout/base",
+
     "include/utilities",
     "layout/tables",
     "layout/buttons",
@@ -17,11 +28,36 @@
     "layout/navigation",
     "layout/footer",
     "syntax",
+
     "layout/forms",
+
     "layout/page",
     "layout/archive",
     "layout/sidebar",
+    
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands",
-    "vendor/magnific-popup/magnific-popup";
+    "vendor/magnific-popup/magnific-popup"
+;
+/* === Hero Section === */
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: white;
+  border-radius: 12px;
+  margin-bottom: 40px;
+}
+
+.hero-title {
+  font-size: 3em;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.hero-subtitle {
+  font-size: 1.4em;
+  font-weight: 300;
+  color: #f1f1f1;
+}
