@@ -3,16 +3,12 @@
 
 @import 
     "vendor/breakpoint/breakpoint",
-
     "themes",
     "theme/{{ site.site_theme | default: 'default' }}",
-
     "include/mixins",
     "vendor/susy/susy",
-
     "layout/reset",
     "layout/base",
-
     "include/utilities",
     "layout/tables",
     "layout/buttons",
@@ -21,15 +17,12 @@
     "layout/navigation",
     "layout/footer",
     "syntax",
-
     "layout/forms",
-
     "layout/page",
     "layout/archive",
     "layout/sidebar",
-    
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands",
-    "vendor/magnific-popup/magnific-popup"
-;
+    "vendor/magnific-popup/magnific-popup";
+
