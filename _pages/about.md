@@ -13,17 +13,16 @@ redirect_from:
   <p class="hero-subtitle">Physicist | Quantum Systems | Quantum Optics | Quantum Computing</p>
 </div>
 
+<div class="quick-links">
+  <a href="/portfolio/" class="btn">View My Projects</a>
+  <a href="/cv/" class="btn">Download CV</a>
+  <a href="/publications/" class="btn">Publications</a>
+</div>
+
+Hello 👋, I’m **Naseer Muhammad**, a physicist passionate about  
+quantum systems, superconducting circuits, and quantum optics.
+
 ---
-
-# Hi, I'm Naseer 👋
-
-I’m a **physicist and aspiring PhD researcher** specializing in  
-**quantum optics, hybrid quantum systems, and quantum control.**  
-Currently, I have completed my Master’s in Physics at Universitas Indonesia,  
-where my thesis focused on *quantum optimal control of superconducting transmons and NV centers*.
-
----
-
 
 ## 🔍 Research Interests
 - Quantum Optics & Solid-State Quantum Systems  
@@ -41,15 +40,16 @@ where my thesis focused on *quantum optimal control of superconducting transmons
 ---
 
 ## 📂 Quick Links
-- 📑 [CV](assets/pdf/cv.pdf)  
-- 🧪 [Research](research.md)  
-- 📜 [Publications](publications.md)  
-- 💼 [Projects](portfolio.md)  
-- ✉️ [Contact](contact.md)  
+<div class="quick-links">
+  <a class="btn" href="assets/pdf/cv.pdf">📑 CV</a>
+  <a class="btn" href="research.md">🧪 Research</a>
+  <a class="btn" href="publications.md">📜 Publications</a>
+  <a class="btn" href="portfolio.md">💼 Projects</a>
+  <a class="btn" href="contact.md">✉️ Contact</a>
+</div>
 
 ---
 
 ## ✨ Quote I Live By
-> *“The future belongs to those who can imagine it, design it, and execute it.”*  
-
+> *“The future belongs to those who can imagine it, design it, and execute it.”*
 
