@@ -12,6 +12,14 @@ redirect_from:
   <p class="hero-subtitle">Physicist | Quantum Systems | Quantum Optics | Quantum Computing</p>
 </div>
 
+<div class="quick-links">
+  <a href="/portfolio/" class="btn">View My Projects</a>
+  <a href="/cv/" class="btn">Download CV</a>
+  <a href="/publications/" class="btn">Publications</a>
+</div>
+
+Hello 👋, I’m **Naseer Muhammad**, a physicist passionate about  
+quantum systems, superconducting circuits, and quantum optics.
 
 
 # Welcome
