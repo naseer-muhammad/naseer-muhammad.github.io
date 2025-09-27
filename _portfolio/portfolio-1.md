@@ -6,7 +6,7 @@ date: 2024-06-01
 excerpt: "Studied Nitrogen-Vacancy centers in diamond for hybrid quantum memory applications."
 ---
 
-In this project, I worked on the dynamics and simulation of the state-transfer between the entangled excited states and ground states of the hybrid quantum systems** using **Nitrogen-Vacancy centers in diamond.  
+In this project, I worked on the dynamics and simulation of the state-transfer between the entangled excited states and ground states of the hybrid quantum systems using **Nitrogen-Vacancy centers** in diamond.  
 - Implemented control techniques to improve memory fidelity.  
 - Explored coupling with superconducting transmons.  
 - Tools used: **Python (QuTiP, Qiskit), C++**.  
