@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-# Hi, I'm Naseer Muhammad 👋
+<div class="hero">
+  <h1 class="hero-title">Naseer Muhammad</h1>
+  <p class="hero-subtitle">Physicist | Quantum Systems | Quantum Optics | Quantum Computing</p>
+</div>
+
+---
+
+# Hi, I'm Naseer 👋
 
 I’m a **physicist and aspiring PhD researcher** specializing in  
 **quantum optics, hybrid quantum systems, and quantum control.**  
@@ -16,6 +23,7 @@ Currently, I have completed my Master’s in Physics at Universitas Indonesia,
 where my thesis focused on *quantum optimal control of superconducting transmons and NV centers*.
 
 ---
+
 
 ## 🔍 Research Interests
 - Quantum Optics & Solid-State Quantum Systems  
