@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
----
-layout: about
-title: "About"
-permalink: /
----
-
 # Hi, I'm Naseer Muhammad 👋
 
 I’m a **physicist and aspiring PhD researcher** specializing in  
