@@ -46,8 +46,7 @@
   padding: 100px 20px;
   background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
   color: white;
-  border-radius: 12px;
-  margin-bottom: 40px;
+  margin: 0 -15px 40px -15px; /* makes it stretch wider */
 }
 
 .hero-title {
