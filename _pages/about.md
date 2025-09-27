@@ -1,26 +1,14 @@
 ---
-layout: about
-title: "About"
-permalink: /
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+layout: home
+title: "Naseer Muhammad"
 ---
 
-<div class="hero">
-  <h1 class="hero-title">Naseer Muhammad</h1>
-  <p class="hero-subtitle">Physicist | Quantum Systems | Quantum Optics | Quantum Computing</p>
-</div>
+# Naseer Muhammad  
+**Physicist | Quantum Systems | Quantum Optics | Quantum Computing**
 
-<div class="quick-links">
-  <a href="/portfolio/" class="btn">View My Projects</a>
-  <a href="/cv/" class="btn">Download CV</a>
-  <a href="/publications/" class="btn">Publications</a>
-</div>
-
-Hello 👋, I’m **Naseer Muhammad**, a physicist passionate about  
-quantum systems, superconducting circuits, and quantum optics.
+Hi, I’m Naseer 👋  
+I’m a physicist and aspiring PhD researcher specializing in quantum optics, hybrid quantum systems, and quantum control.  
+Currently, I have completed my Master’s in Physics at Universitas Indonesia, where my thesis focused on quantum optimal control of superconducting transmons and NV centers.
 
 ---
 
@@ -33,23 +21,20 @@ quantum systems, superconducting circuits, and quantum optics.
 ---
 
 ## 📌 Recent Highlights
-- 🏆 **Best Presenter Award** — International Physics Seminar, Jakarta (2024)  
-- 🎓 **Master’s Thesis**: *Quantum Optimal Control of Hybrid Quantum Systems*  
-- 📖 Preparing **PhD applications** in Quantum Photonics & Open Quantum Systems  
+- 🏆 Best Presenter Award — *International Physics Seminar, Jakarta (2024)*  
+- 🎓 Master’s Thesis: *Quantum Optimal Control of Hybrid Quantum Systems*  
+- 📖 Preparing PhD applications in Quantum Photonics & Open Quantum Systems  
 
 ---
 
 ## 📂 Quick Links
-<div class="quick-links">
-  <a class="btn" href="assets/pdf/cv.pdf">📑 CV</a>
-  <a class="btn" href="research.md">🧪 Research</a>
-  <a class="btn" href="publications.md">📜 Publications</a>
-  <a class="btn" href="portfolio.md">💼 Projects</a>
-  <a class="btn" href="contact.md">✉️ Contact</a>
-</div>
+- 📑 [CV](cv.md)  
+- 🧪 [Research](research.md)  
+- 📜 [Publications](publications.md)  
+- 💼 [Projects](projects.md)  
+- ✉️ [Contact](contact.md)  
 
 ---
 
 ## ✨ Quote I Live By
-> *“The future belongs to those who can imagine it, design it, and execute it.”*
-
+*“The future belongs to those who can imagine it, design it, and execute it.”*
