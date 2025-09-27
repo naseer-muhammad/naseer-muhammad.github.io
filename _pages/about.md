@@ -27,8 +27,8 @@ I am actively seeking a **PhD position** in the research field of **optimal cont
 
 # 📚 Education
 
-- **M.Sc. Physics (CGPA: 3.68/4.00)** — [Universitas Indonesia](https://www.ui.ac.id/en/)  
-- **B.Sc. Applied Physics** — [Federal Urdu University of Arts, Science and Technology, Islamabad](https://fuuastisb.edu.pk/)  
+- **Master of Science - Physics (CGPA: 3.68/4.00)** — [Universitas Indonesia](https://www.ui.ac.id/en/)  
+- **Bachelor of Science - Applied Physics** — [Federal Urdu University of Arts, Science and Technology, Islamabad](https://fuuastisb.edu.pk/)  
 - **Associate Bachelor’s (Physics & Mathematics)** — [University of the Punjab](https://www.pu.edu.pk/)  
 
 ---
