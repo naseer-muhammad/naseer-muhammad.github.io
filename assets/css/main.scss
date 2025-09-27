@@ -104,3 +104,21 @@ button,
   }
 }
 
+/* ===================== */
+/* Navbar Hover Styling  */
+/* ===================== */
+
+/* Target navbar links */
+.navbar a,
+.site-header a,
+.site-nav a {
+  color: inherit; // keeps the default text color
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.navbar a:hover,
+.site-header a:hover,
+.site-nav a:hover {
+  color: #555; // match hero gray theme
+}
