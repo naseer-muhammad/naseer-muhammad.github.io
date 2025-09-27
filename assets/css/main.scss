@@ -60,3 +60,12 @@
   font-weight: 300;
   color: #f1f1f1;
 }
+
+@media (max-width: 600px) {
+  .hero-title {
+    font-size: 2em;
+  }
+  .hero-subtitle {
+    font-size: 1em;
+  }
+}
