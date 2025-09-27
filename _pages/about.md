@@ -1,68 +1,53 @@
 ---
+layout: about
+title: "About"
 permalink: /
-title: "Welcome to Naseer's Academic website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<div class="hero">
-  <h1 class="hero-title">Naseer Muhammad</h1>
-  <p class="hero-subtitle">Physicist | Quantum Systems | Quantum Optics | Quantum Computing</p>
-</div>
+---
+layout: about
+title: "About"
+permalink: /
+---
 
-<div class="quick-links">
-  <a href="/portfolio/" class="btn">View My Projects</a>
-  <a href="/cv/" class="btn">Download CV</a>
-  <a href="/publications/" class="btn">Publications</a>
-</div>
+# Hi, I'm Naseer Muhammad 👋
 
-Hello 👋, I’m **Naseer Muhammad**, a physicist passionate about  
-quantum systems, superconducting circuits, and quantum optics.
-
-
-# Welcome
-
-Thanks for visiting my website!  
-Here you can find information about my background, research, and academic journey.
+I’m a **physicist and aspiring PhD researcher** specializing in  
+**quantum optics, hybrid quantum systems, and quantum control.**  
+Currently, I have completed my Master’s in Physics at Universitas Indonesia,  
+where my thesis focused on *quantum optimal control of superconducting transmons and NV centers*.
 
 ---
 
-# About Me
-
-I am actively seeking a **PhD position** in the research field of **optimal control of quantum systems, superconducting quantum circuits, and quantum optics**.  
-
-- Passionate researcher in the **Optimal Control of Hybrid Quantum Systems**  
-- Strong background in **Quantum Optics** and **Quantum Mechanics**  
-- Skilled in **Python (QuTiP, Qiskit)**, **C++**, and quantum computing frameworks  
-- Winner of the **Best Presenter Award** at the [International Physics Seminar](https://ips2024.snf-unj.ac.id/), June 2024  
+## 🔍 Research Interests
+- Quantum Optics & Solid-State Quantum Systems  
+- Open Quantum Systems & Non-Markovian Dynamics  
+- Quantum Thermodynamics & Quantum Transport  
+- Quantum Information Networks & Quantum Memories  
 
 ---
 
-# Education
-
-- **Master of Science - Physics (CGPA: 3.68/4.00)** — [Universitas Indonesia](https://www.ui.ac.id/en/)  
-- **Bachelor of Science - Applied Physics** — [Federal Urdu University of Arts, Science and Technology, Islamabad](https://fuuastisb.edu.pk/)  
-- **Associate Bachelor’s (Physics & Mathematics)** — [University of the Punjab](https://www.pu.edu.pk/)  
-
----
-
-# Research Interests
-
-- Nitrogen-Vacancy (NV) centers in diamond  
-- Superconducting quantum circuits  
-- Quantum optics and hybrid systems  
+## 📌 Recent Highlights
+- 🏆 **Best Presenter Award** — International Physics Seminar, Jakarta (2024)  
+- 🎓 **Master’s Thesis**: *Quantum Optimal Control of Hybrid Quantum Systems*  
+- 📖 Preparing **PhD applications** in Quantum Photonics & Open Quantum Systems  
 
 ---
 
-# Current Role
-
-Since **August 2024**, I have been working as a **Physics Lecturer** at  
-[F.G Sir Syed College, Mall Road, Saddar, Rawalpindi](https://fgssc.edu.pk/),  
-teaching undergraduate courses in:  
-- *Quantum Mechanics*  
-- *Electromagnetism*  
+## 📂 Quick Links
+- 📑 [CV](assets/pdf/cv.pdf)  
+- 🧪 [Research](research.md)  
+- 📜 [Publications](publications.md)  
+- 💼 [Projects](portfolio.md)  
+- ✉️ [Contact](contact.md)  
 
 ---
+
+## ✨ Quote I Live By
+> *“The future belongs to those who can imagine it, design it, and execute it.”*  
+
 
