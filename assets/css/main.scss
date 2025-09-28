@@ -148,3 +148,59 @@ button:hover, .btn:hover {
     opacity: 1;
   }
 }
+
+
+
+
+// === Homepage Header ===
+.homepage-header {
+  text-align: center;
+  margin: 80px 0;
+
+  .animated-name {
+    font-size: 5rem;        // bigger than before
+    font-weight: 900;
+    color: #888888;
+    background-color: #f0f0f0; // light gray box behind text
+    display: inline-block;
+    padding: 20px 40px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    animation: slideIn 2s ease-out forwards;
+  }
+
+  .animated-title {
+    font-size: 1.8rem;
+    color: #aaa;
+    margin-top: 20px;
+    font-family: monospace; // terminal-style
+  }
+
+  .cursor {
+    display: inline-block;
+    background-color: #aaa;
+    width: 2px;
+    margin-left: 2px;
+    animation: blink 0.7s infinite;
+  }
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateY(-50px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes blink {
+  0%, 50%, 100% { opacity: 1; }
+  25%, 75% { opacity: 0; }
+}
+
+
+
+
