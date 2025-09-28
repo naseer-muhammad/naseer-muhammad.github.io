@@ -183,3 +183,16 @@ button:hover, .btn:hover {
   100% { transform: translateY(0); opacity: 1; }
 }
 
+
+/* === Stylish Contact Header in Sidebar === */
+.author__bio {
+  font-size: 1.3rem;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 2px;
+  color: #007acc;   /* accent blue, change if you want */
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.2);
+}
+
