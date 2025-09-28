@@ -117,3 +117,34 @@ button:hover, .btn:hover {
   color: #fff;
   transform: scale(1.05);
 }
+
+
+// === Homepage Header Animation ===
+.homepage-header {
+  text-align: center;
+  margin: 80px 0;
+
+  .animated-name {
+    font-size: 4rem;
+    font-weight: 800;
+    color: #888888;
+    animation: slideIn 2s ease-out forwards;
+  }
+
+  .animated-title {
+    font-size: 1.8rem;
+    color: #aaa;
+    margin-top: 20px;
+  }
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateY(-50px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
