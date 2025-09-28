@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Naseer's Academic Website"
+title: "Welcome to my Academic Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,6 @@ redirect_from:
 </div>
 
 
-# Welcome
 
 Thanks for visiting my website!  
 Here you can find information about my background, research, and academic journey.
