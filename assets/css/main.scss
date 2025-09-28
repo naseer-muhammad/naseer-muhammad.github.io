@@ -4,8 +4,7 @@
 /*
  * This file controls what is imported from /_sass
  *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ * The files are processed in the order they are imported.
  */
 
 @import 
@@ -40,7 +39,8 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
-/* === Hero Section === */
+
+/* === Hero Section (optional) === */
 .hero {
   text-align: center;
   padding: 100px 20px;
@@ -70,13 +70,14 @@
     font-size: 1em;
   }
 }
+
 /* --- Hover effect for links --- */
 a {
   transition: color 0.3s ease, text-shadow 0.3s ease;
 }
 
 a:hover {
-  color: #007acc; /* accent color */
+  color: #007acc; 
   text-shadow: 0 0 5px rgba(0, 122, 204, 0.4);
 }
 
@@ -118,63 +119,55 @@ button:hover, .btn:hover {
   transform: scale(1.05);
 }
 
-
-// === Homepage Header Animation ===
+/* === Homepage Header Cinematic Box Wide & Responsive === */
 .homepage-header {
   text-align: center;
   margin: 80px 0;
 
+  .cinematic-box {
+    display: inline-block;
+    padding: 50px 80px;
+    border-radius: 25px;
+
+    /* Gradient background */
+    background: linear-gradient(90deg, #1e1e2f, #3b3b5a, #1e1e2f);
+    background-size: 300% 100%;   
+    animation: shimmer 6s linear infinite; 
+
+    box-shadow: 0 15px 40px rgba(0,0,0,0.4);
+    color: #f0f0f0;
+
+    width: 90vw;
+    max-width: 1200px;
+    min-width: 700px;
+    height: 250px;                // fixed vertical height
+    box-sizing: border-box;
+    text-align: center;
+  }
+
   .animated-name {
-    font-size: 4rem;
-    font-weight: 800;
-    color: #888888;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.8rem;
+    font-weight: 900;
+    margin: 0;
+    line-height: 1.1;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #f0f0f0;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.5);
     animation: slideIn 2s ease-out forwards;
   }
 
   .animated-title {
     font-size: 1.8rem;
-    color: #aaa;
+    color: #ddd;
     margin-top: 20px;
+    font-family: monospace;
+    line-height: 1.4;
+    min-height: 2.4rem;
   }
-}
-
-@keyframes slideIn {
-  0% {
-    transform: translateY(-50px);
-    opacity: 0;
-  }
-  100% {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
-
-
-
-// === Homepage Header Cinematic Box Wide & Responsive ===
-.homepage-header {
-  text-align: center;
-  margin: 80px 0;
-
-   .cinematic-box {
-  display: inline-block;
-  padding: 50px 80px;
-  border-radius: 25px;
-
-  /* Gradient background */
-  background: linear-gradient(90deg, #1e1e2f, #3b3b5a, #1e1e2f);
-  background-size: 300% 100%;   // make the gradient wider than the box
-  animation: shimmer 6s linear infinite; // horizontal animation
-
-  box-shadow: 0 15px 40px rgba(0,0,0,0.4);
-  color: #f0f0f0;
-
-  width: 90vw;
-  max-width: 1200px;
-  min-width: 700px;
-  height: 250px;                // fixed vertical height
-  box-sizing: border-box;
-  text-align: center;
 }
 
 /* Horizontal gradient animation */
@@ -184,38 +177,9 @@ button:hover, .btn:hover {
   100% { background-position: 0% 0%; }
 }
 
-
-
-.animated-name {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 3.8rem;
-  font-weight: 900;
-  margin: 0;
-  line-height: 1.1;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  color: #f0f0f0;
-  letter-spacing: 1px;
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.5);
-}
-
-.animated-title {
-  font-size: 1.8rem;
-  color: #ddd;
-  margin-top: 20px;
-  font-family: monospace;
-  line-height: 1.4;
-  min-height: 2.4rem;
-}
-}
-
+/* Slide-in animation for name */
 @keyframes slideIn {
   0% { transform: translateY(-50px); opacity: 0; }
   100% { transform: translateY(0); opacity: 1; }
 }
-
-
-
-
 
