@@ -6,6 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div class="homepage-header">
+  <h1 class="animated-name">
+    Naseer Muhammad
+  </h1>
+  <p class="animated-title">
+    <span id="typed-subtitle"></span>
+  </p>
+</div>
 
 # Welcome
 
@@ -50,3 +58,42 @@ teaching undergraduate courses in:
 - *Electromagnetism*  
 
 ---
+<script>
+const subtitles = [
+  "Physicist",
+  "Quantum Systems",
+  "Quantum Optics",
+  "Quantum Computing"
+];
+
+let i = 0;
+let j = 0;
+let currentText = "";
+let isDeleting = false;
+const typingSpeed = 120;
+const pauseTime = 1500;
+
+function type() {
+  const subtitle = subtitles[i];
+  if (isDeleting) {
+    currentText = subtitle.substring(0, j--);
+  } else {
+    currentText = subtitle.substring(0, j++);
+  }
+
+  document.getElementById("typed-subtitle").textContent = currentText;
+
+  if (!isDeleting && j === subtitle.length + 1) {
+    isDeleting = true;
+    setTimeout(type, pauseTime);
+  } else if (isDeleting && j === 0) {
+    isDeleting = false;
+    i = (i + 1) % subtitles.length;
+    setTimeout(type, 300);
+  } else {
+    setTimeout(type, typingSpeed);
+  }
+}
+
+type();
+</script>
