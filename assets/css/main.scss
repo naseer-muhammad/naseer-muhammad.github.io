@@ -152,54 +152,43 @@ button:hover, .btn:hover {
 
 
 
-// === Homepage Header ===
+// === Homepage Header Cinematic Box ===
 .homepage-header {
   text-align: center;
   margin: 80px 0;
 
-  .animated-name {
-    font-size: 5rem;        // bigger than before
-    font-weight: 900;
-    color: #888888;
-    background-color: #f0f0f0; // light gray box behind text
+  .cinematic-box {
     display: inline-block;
-    padding: 20px 40px;
-    border-radius: 12px;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-    animation: slideIn 2s ease-out forwards;
+    padding: 50px 80px;
+    border-radius: 20px;
+    background: linear-gradient(135deg, #1e1e2f, #3b3b5a);
+    box-shadow: 0 15px 40px rgba(0,0,0,0.4);
+    color: #f0f0f0;
+    max-width: 90%;
+  }
+
+  .animated-name {
+    font-size: 5rem;        // big bold name
+    font-weight: 900;
+    margin: 0;
+    line-height: 1.2;
   }
 
   .animated-title {
-    font-size: 1.8rem;
-    color: #aaa;
+    font-size: 2rem;
+    color: #ddd;
     margin-top: 20px;
-    font-family: monospace; // terminal-style
-  }
-
-  .cursor {
-    display: inline-block;
-    background-color: #aaa;
-    width: 2px;
-    margin-left: 2px;
-    animation: blink 0.7s infinite;
+    font-family: monospace;
+    line-height: 1.4;
   }
 }
 
+// slide-in animation
 @keyframes slideIn {
-  0% {
-    transform: translateY(-50px);
-    opacity: 0;
-  }
-  100% {
-    transform: translateY(0);
-    opacity: 1;
-  }
+  0% { transform: translateY(-50px); opacity: 0; }
+  100% { transform: translateY(0); opacity: 1; }
 }
 
-@keyframes blink {
-  0%, 50%, 100% { opacity: 1; }
-  25%, 75% { opacity: 0; }
-}
 
 
 
