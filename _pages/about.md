@@ -64,7 +64,7 @@ const subtitles = [
   "Physicist",
   "Quantum Systems",
   "Quantum Optics",
-  "Quantum Computing"
+  "Quantum Information and Quantum Computing"
 ];
 
 let i = 0;
