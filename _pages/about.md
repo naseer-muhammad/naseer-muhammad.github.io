@@ -10,7 +10,7 @@ redirect_from:
   <div class="cinematic-box">
     <h1 class="animated-name">Naseer Muhammad</h1>
     <p class="animated-title">
-      <span id="typed-subtitle"></span>
+      <span id="typed-subtitle">|</span>
     </p>
   </div>
 </div>
@@ -64,7 +64,7 @@ const subtitles = [
   "Physicist",
   "Quantum Systems",
   "Quantum Optics",
-  "Quantum Information and Quantum Computing"
+  "Quantum Computing"
 ];
 
 let i = 0;
