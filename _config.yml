@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "speech.png"
-  name             : "Naseer Muhammad"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in the field of Quantum Systems"
+  bio              : "Contact"
   location         : "Islamabad, Pakistan"
   employer         : "Universitas Indonesia"
   uri              : 
