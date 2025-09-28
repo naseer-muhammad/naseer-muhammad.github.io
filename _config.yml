@@ -348,3 +348,22 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+
+# Navigation Menu
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /cv/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Talks"
+    url: /talks/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact"
+    url: /contact/
