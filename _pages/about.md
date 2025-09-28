@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 <div class="homepage-header">
-  <h1 class="animated-name">
-    Naseer Muhammad
-  </h1>
-  <p class="animated-title">
-    <span id="typed-subtitle"></span><span class="cursor"></span>
-  </p>
+  <div class="cinematic-box">
+    <h1 class="animated-name">Naseer Muhammad</h1>
+    <p class="animated-title">
+      <span id="typed-subtitle"></span>
+    </p>
+  </div>
 </div>
+
 
 
 
@@ -97,4 +98,5 @@ function type() {
 
 type();
 </script>
+
 
