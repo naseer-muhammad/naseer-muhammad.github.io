@@ -151,22 +151,23 @@ button:hover, .btn:hover {
 
 
 
-
-// === Homepage Header Cinematic Box Wide ===
+// === Homepage Header Cinematic Box Wide & Responsive ===
 .homepage-header {
   text-align: center;
   margin: 80px 0;
 
   .cinematic-box {
     display: inline-block;
-    padding: 50px 100px;           // wider padding for more horizontal space
+    padding: 50px 120px;           // increase horizontal padding
     border-radius: 20px;
     background: linear-gradient(135deg, #1e1e2f, #3b3b5a);
     box-shadow: 0 15px 40px rgba(0,0,0,0.4);
     color: #f0f0f0;
-    max-width: 95%;                 // wide box nearly full page width
-    min-width: 700px;               // ensure box is always wide
-    min-height: 250px;              // fixed minimum height to prevent shrinking
+
+    max-width: 100%;                // allow box to grow across page width
+    min-width: 700px;               // minimum width for large screens
+    width: 90vw;                    // responsive width based on viewport
+    min-height: 250px;              // fixed minimum height
     box-sizing: border-box;
   }
 
@@ -175,7 +176,9 @@ button:hover, .btn:hover {
     font-weight: 900;
     margin: 0;
     line-height: 1.1;
-    white-space: nowrap;             // prevent name from breaking into two lines
+    white-space: nowrap;             // prevent breaking into two lines
+    overflow: hidden;                // prevent overflow
+    text-overflow: ellipsis;         // optional: if it overflows, show "..."
   }
 
   .animated-title {
@@ -184,7 +187,7 @@ button:hover, .btn:hover {
     margin-top: 20px;
     font-family: monospace;
     line-height: 1.4;
-    min-height: 2.4rem;              // reserve vertical space so box does not shrink
+    min-height: 2.4rem;              // reserve vertical space for typing
   }
 }
 
@@ -193,6 +196,7 @@ button:hover, .btn:hover {
   0% { transform: translateY(-50px); opacity: 0; }
   100% { transform: translateY(0); opacity: 1; }
 }
+
 
 
 
