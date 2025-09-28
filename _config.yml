@@ -21,15 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "speech.png"
-  name             : ""
-  pronouns         : # example: "she/her"  
-  bio              : "Contact"
-  location         : "Islamabad, Pakistan"
-  employer         : "Universitas Indonesia"
-  uri              : 
-  email            : "muhammad.naseer@office.ui.ac.id" 
+  bio              : "✦ CONTACT ✦"
+  email            : "muhammad.naseer@office.ui.ac.id"
+  github           : "https://github.com/naseer-muhammad"
+  linkedin         : "https://linkedin.com/in/naseer-muhammad"
+
 
   # Academic websites
   arxiv            : 
