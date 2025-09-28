@@ -152,26 +152,30 @@ button:hover, .btn:hover {
 
 
 
-// === Homepage Header Cinematic Box ===
+// === Homepage Header Cinematic Box Wide ===
 .homepage-header {
   text-align: center;
   margin: 80px 0;
 
   .cinematic-box {
     display: inline-block;
-    padding: 50px 80px;
+    padding: 50px 100px;           // wider padding for more horizontal space
     border-radius: 20px;
     background: linear-gradient(135deg, #1e1e2f, #3b3b5a);
     box-shadow: 0 15px 40px rgba(0,0,0,0.4);
     color: #f0f0f0;
-    max-width: 90%;
+    max-width: 95%;                 // wide box nearly full page width
+    min-width: 700px;               // ensure box is always wide
+    min-height: 250px;              // fixed minimum height to prevent shrinking
+    box-sizing: border-box;
   }
 
   .animated-name {
-    font-size: 5rem;        // big bold name
+    font-size: 5rem;
     font-weight: 900;
     margin: 0;
-    line-height: 1.2;
+    line-height: 1.1;
+    white-space: nowrap;             // prevent name from breaking into two lines
   }
 
   .animated-title {
@@ -180,14 +184,16 @@ button:hover, .btn:hover {
     margin-top: 20px;
     font-family: monospace;
     line-height: 1.4;
+    min-height: 2.4rem;              // reserve vertical space so box does not shrink
   }
 }
 
-// slide-in animation
+// slide-in animation for the name
 @keyframes slideIn {
   0% { transform: translateY(-50px); opacity: 0; }
   100% { transform: translateY(0); opacity: 1; }
 }
+
 
 
 
