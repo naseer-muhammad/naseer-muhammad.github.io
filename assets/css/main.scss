@@ -156,7 +156,7 @@ button:hover, .btn:hover {
   text-align: center;
   margin: 80px 0;
 
-  .cinematic-box {
+   .cinematic-box {
   display: inline-block;
   padding: 50px 80px;        // top/bottom 50px, left/right 80px
   border-radius: 25px;
@@ -164,7 +164,7 @@ button:hover, .btn:hover {
   box-shadow: 0 15px 40px rgba(0,0,0,0.4);
   color: #f0f0f0;
 
-  width: 70vw;                // horizontal width relative to viewport
+  width: 50vw;                // horizontal width relative to viewport
   max-width: 1200px;          // max width so it doesn’t stretch too much
   min-width: 700px;           // minimum width for smaller screens
 
@@ -173,9 +173,10 @@ button:hover, .btn:hover {
 }
 
 
+
   .animated-name {
     font-family: 'Montserrat', sans-serif; // stylish font
-    font-size: 2.8rem;         // slightly smaller so it fits
+    font-size: 3.8rem;         // slightly smaller so it fits
     font-weight: 900;
     margin: 0;
     line-height: 1.1;
