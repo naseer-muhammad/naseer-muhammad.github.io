@@ -11,7 +11,7 @@ redirect_from:
     Naseer Muhammad
   </h1>
   <p class="animated-title">
-    <span id="typed-subtitle"></span><span class="cursor">|</span>
+    <span id="typed-subtitle"></span><span class="cursor"></span>
   </p>
 </div>
 
