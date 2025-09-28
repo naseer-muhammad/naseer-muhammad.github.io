@@ -158,46 +158,47 @@ button:hover, .btn:hover {
 
   .cinematic-box {
     display: inline-block;
-    padding: 50px 120px;           // increase horizontal padding
-    border-radius: 20px;
+    padding: 40px 60px;         // comfortable padding
+    border-radius: 25px;
     background: linear-gradient(135deg, #1e1e2f, #3b3b5a);
     box-shadow: 0 15px 40px rgba(0,0,0,0.4);
     color: #f0f0f0;
 
-    max-width: 100%;                // allow box to grow across page width
-    min-width: 700px;               // minimum width for large screens
-    width: 90vw;                    // responsive width based on viewport
-    min-height: 250px;              // fixed minimum height
+    max-width: 90%;             // responsive
+    min-width: 600px;           // minimum width
+    width: 90vw;                // responsive width
+    min-height: 250px;          // fixed height
     box-sizing: border-box;
   }
 
   .animated-name {
-    font-size: 5rem;
+    font-family: 'Montserrat', sans-serif; // stylish font
+    font-size: 3.8rem;         // slightly smaller so it fits
     font-weight: 900;
     margin: 0;
     line-height: 1.1;
-    white-space: nowrap;             // prevent breaking into two lines
-    overflow: hidden;                // prevent overflow
-    text-overflow: ellipsis;         // optional: if it overflows, show "..."
+    white-space: nowrap;       // keep on one line
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #f0f0f0;
+    letter-spacing: 1px;       // small spacing for elegance
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.5); // cinematic effect
   }
 
   .animated-title {
-    font-size: 2rem;
+    font-size: 1.8rem;
     color: #ddd;
     margin-top: 20px;
     font-family: monospace;
     line-height: 1.4;
-    min-height: 2.4rem;              // reserve vertical space for typing
+    min-height: 2.4rem;
   }
 }
 
-// slide-in animation for the name
 @keyframes slideIn {
   0% { transform: translateY(-50px); opacity: 0; }
   100% { transform: translateY(0); opacity: 1; }
 }
-
-
 
 
 
