@@ -158,44 +158,56 @@ button:hover, .btn:hover {
 
    .cinematic-box {
   display: inline-block;
-  padding: 50px 80px;        // top/bottom 50px, left/right 80px
+  padding: 50px 80px;
   border-radius: 25px;
-  background: linear-gradient(135deg, #1e1e2f, #3b3b5a);
+
+  /* Gradient background */
+  background: linear-gradient(90deg, #1e1e2f, #3b3b5a, #1e1e2f);
+  background-size: 300% 100%;   // make the gradient wider than the box
+  animation: shimmer 6s linear infinite; // horizontal animation
+
   box-shadow: 0 15px 40px rgba(0,0,0,0.4);
   color: #f0f0f0;
 
-  width: 50vw;                // horizontal width relative to viewport
-  max-width: 1200px;          // max width so it doesn’t stretch too much
-  min-width: 700px;           // minimum width for smaller screens
-
-  height: 250px;              // FIXED vertical height
+  width: 90vw;
+  max-width: 1200px;
+  min-width: 700px;
+  height: 250px;                // fixed vertical height
   box-sizing: border-box;
+  text-align: center;
+}
+
+/* Horizontal gradient animation */
+@keyframes shimmer {
+  0% { background-position: 0% 0%; }
+  50% { background-position: 100% 0%; }
+  100% { background-position: 0% 0%; }
 }
 
 
 
-  .animated-name {
-    font-family: 'Montserrat', sans-serif; // stylish font
-    font-size: 3.8rem;         // slightly smaller so it fits
-    font-weight: 900;
-    margin: 0;
-    line-height: 1.1;
-    white-space: nowrap;       // keep on one line
-    overflow: hidden;
-    text-overflow: ellipsis;
-    color: #f0f0f0;
-    letter-spacing: 1px;       // small spacing for elegance
-    text-shadow: 2px 2px 8px rgba(0,0,0,0.5); // cinematic effect
-  }
+.animated-name {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.8rem;
+  font-weight: 900;
+  margin: 0;
+  line-height: 1.1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #f0f0f0;
+  letter-spacing: 1px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.5);
+}
 
-  .animated-title {
-    font-size: 1.8rem;
-    color: #ddd;
-    margin-top: 20px;
-    font-family: monospace;
-    line-height: 1.4;
-    min-height: 2.4rem;
-  }
+.animated-title {
+  font-size: 1.8rem;
+  color: #ddd;
+  margin-top: 20px;
+  font-family: monospace;
+  line-height: 1.4;
+  min-height: 2.4rem;
+}
 }
 
 @keyframes slideIn {
