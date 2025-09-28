@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&display=swap" rel="stylesheet">
+
 <div class="homepage-header">
   <div class="cinematic-box">
     <h1 class="animated-name">Naseer Muhammad</h1>
