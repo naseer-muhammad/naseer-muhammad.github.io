@@ -367,4 +367,11 @@ navigation:
     url: /blog/
   - title: "Contact"
     url: /contact/
-  - 
+
+
+    # Blog Settings
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:name
+
