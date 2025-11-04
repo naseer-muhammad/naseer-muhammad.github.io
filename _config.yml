@@ -352,21 +352,42 @@ compress_html:
 
 
 # Navigation Menu
-navigation:
-  - title: "Home"
-    url: /
+main:
+  - title: "Research Direction"
+    url: /research/ 
+    
   - title: "Publications"
-    url: /publications/
+    url: /publications/   
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Blog"
+    url: /posts/
+        
+  - title: "Seminars and conferences"
+    url: /seminars/
+    
   - title: "CV"
     url: /cv/
-  - title: "Blogs"
-    url: /posts/
-  - title: "Talks"
-    url: /talks/
-  - title: "Blog"
-    url: /blog/
-  - title: "Contact"
-    url: /contact/
+    
+  - title: "References"
+    url: /references/
+# navigation:
+#   - title: "Home"
+#     url: /
+#   - title: "Publications"
+#     url: /publications/
+#   - title: "CV"
+#     url: /cv/
+#   - title: "Blogs"
+#     url: /posts/
+#   - title: "Talks"
+#     url: /talks/
+#   - title: "Blog"
+#     url: /blog/
+#   - title: "Contact"
+#     url: /contact/
 
 
     # Blog Settings
