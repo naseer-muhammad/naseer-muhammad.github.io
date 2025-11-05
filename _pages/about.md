@@ -61,6 +61,23 @@ teaching undergraduate courses in:
 - *Electromagnetism*  
 
 ---
+
+## 🗞️ Latest Blog Posts
+
+Stay updated with my latest thoughts and writings on **Quantum Systems, Optics, and Quantum Computing**.
+
+{% include base_path %}
+{% for post in site.posts limit:3 %}
+<div style="margin-bottom: 1.5em;">
+  <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+  <small><i>{{ post.date | date: "%B %d, %Y" }}</i></small><br>
+  <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+</div>
+{% endfor %}
+
+👉 [See all posts →](/blog/)
+
+---
 <script>
 const subtitles = [
   "Physicist",
