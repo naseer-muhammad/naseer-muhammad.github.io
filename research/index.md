@@ -13,7 +13,7 @@ Here, I describe my ongoing and planned research in **quantum systems**, **quant
 ## Research Areas
 
 - [Quantum Optics](/research/quantum-optics/)
-- [Hybrid Quantum Systems](/research/2025-11-04-hybrid-quantum-systems.md/)
+- [Hybrid Quantum Systems](/research/hybrid-qubits/)
 - [Quantum Thermodynamics](/research/quantum-thermodynamics/)
 - [Quantum Control](/research/quantum-control/)
 
