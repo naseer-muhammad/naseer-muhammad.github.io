@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Quantum Communication and Quantum Memory with Hybrid Quantum Systems"
-permalink: /research/quantum-communication-hybrid-systems/
+permalink: /research/quantum-optics/
 author_profile: true
 ---
 
