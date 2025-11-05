@@ -46,7 +46,7 @@ A few moments from my academic journey — research, teaching, and life in scien
 <div class="gallery-grid">
 
   <div class="gallery-item">
-    <img src="/images/3.grad_self.jpg" alt="Graduation at Universitas Indonesia">
+    <img src="/images/3.grad_self.JPG" alt="Graduation at Universitas Indonesia">
     <div class="caption">Graduation at Universitas Indonesia (2024)</div>
   </div>
 
