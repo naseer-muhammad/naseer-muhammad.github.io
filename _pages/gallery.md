@@ -14,6 +14,13 @@ author_profile: false
   gap: 1.2rem;
   margin-top: 2rem;
 }
+  .page__content .caption {
+  display: block !important;
+  color: #555 !important;
+  font-style: italic;
+  text-align: center;
+}
+  
 .gallery-item {
   position: relative;
   overflow: hidden;
