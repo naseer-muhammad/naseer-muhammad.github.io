@@ -14,6 +14,6 @@ Here, I describe my ongoing and planned research in **quantum systems**, **quant
 
 - [Quantum Optics](/research/quantum-optics/)
 - [Hybrid Quantum Systems](/research/hybrid-qubits/)
-- [Quantum Thermodynamics](/research/quantum-thermodynamics/)
+- [Quantum Sensing](/research/quantum-thermodynamics/)
 - [Quantum Control](/research/quantum-control/)
 
