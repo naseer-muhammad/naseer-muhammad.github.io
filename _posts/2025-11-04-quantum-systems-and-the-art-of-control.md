@@ -1,10 +1,17 @@
 ---
-layout: post
+layout: single
 title: "Quantum Systems and the Art of Control — Understanding Hybrid Qubits"
 date: 2025-11-04
+author: "Naseer Muhammad"
 categories: [Quantum Systems, Research]
 tags: [quantum optics, NV centers, transmons, superconducting qubits, quantum control]
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/quantum-banner.jpg
+  caption: "Hybrid quantum architectures for scalable quantum information systems"
 ---
+
 
 Controlling quantum systems is one of the most fascinating challenges in modern physics.
 
