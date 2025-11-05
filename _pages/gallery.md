@@ -41,13 +41,23 @@ author_profile: false
 
 # Gallery
 
-A few moments from my academic journey — research, teaching, and life in science.
+A few memorable moments from my academic journey — research, collaboration, and graduation.
 
 <div class="gallery-grid">
 
   <div class="gallery-item">
-    <img src="/images/3_grad_self.jpg" alt="Graduation at Universitas Indonesia">
-    <div class="caption">Graduation at Universitas Indonesia (2024)</div>
+    <img src="/images/with_hammad_in_UNJ.JPG" alt="With Hammad at Universitas Negeri Jakarta">
+    <div class="caption">With Supervisors and Group colleagues(2024)</div>
+  </div>
+
+  <div class="gallery-item">
+    <img src="/images/grad_with_af.JPG" alt="Graduation ceremony with AF">
+    <div class="caption">Graduation ceremony with colleagues (2024)</div>
+  </div>
+
+  <div class="gallery-item">
+    <img src="/images/grad_self.JPG" alt="Solo graduation portrait">
+    <div class="caption">Lab graduation portrait (Universitas Indonesia, 2024)</div>
   </div>
 
 </div>
