@@ -46,17 +46,17 @@ A few memorable moments from my academic journey — research, collaboration, an
 <div class="gallery-grid">
 
   <div class="gallery-item">
-    <img src="/images/with_hammad_in_UNJ.JPG" alt="@ Universitas Negeri Jakarta">
+    <img src="/images/with_hammad_in_UNJ.JPG" alt="at Universitas Negeri Jakarta">
     <div class="caption">With Supervisors and Group colleagues(2024)</div>
   </div>
 
   <div class="gallery-item">
-    <img src="/images/grad_with_af.JPG" alt="Graduation">
+    <img src="/images/grad_with_af.JPG" alt="Master Graduation">
     <div class="caption">Graduation ceremony with colleagues (2024)</div>
   </div>
 
   <div class="gallery-item">
-    <img src="/images/grad_self.JPG" alt="S=Lab Colleagues">
+    <img src="/images/grad_self.JPG" alt="with Lab Colleagues">
     <div class="caption">Lab graduation portrait (Universitas Indonesia, 2024)</div>
   </div>
 
