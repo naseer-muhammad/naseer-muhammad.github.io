@@ -54,24 +54,25 @@ A few memorable moments from my academic journey — research, collaboration, an
 
 <div class="gallery-grid">
 
-  <div class="gallery-item">
+  <figure class="gallery-item">
     <img src="/images/with PI at Universitas Indonesia.jpg" alt="with PI at Universitas Indonesia">
-    <div class="caption">With Supervisors and Group colleague, 2024</div>
-  </div>
+    <figcaption class="caption">With Supervisors and Group colleague, 2024</figcaption>
+  </figure>
 
-  <div class="gallery-item">
-    <img src="/images/speech.png" alt="Master Graduation">
-    <div class="caption">Presentation at Jakarta State University, 2024</div>
-  </div>
+  <figure class="gallery-item">
+    <img src="/images/speech.png" alt="Presentation at International Physics Seminar, Indonesia">
+    <figcaption class="caption">Presentation at Jakarta State University, 2024</figcaption>
+  </figure>
 
-  <div class="gallery-item">
+  <figure class="gallery-item">
     <img src="/images/with Lab Colleagues.jpg" alt="with Lab Colleagues">
-    <div class="caption">Lab portrait, TCMP, Universitas Indonesia, 2024</div>
-  </div>
+    <figcaption class="caption">Lab portrait, TCMP, Universitas Indonesia, 2024</figcaption>
+  </figure>
 
-  <div class="gallery-item">
-    <img src="/images/after viva.jpg" alt="Memory after Viva Vose Exam">
-    <div class="caption">Memory after Viva Voce Exam: Relief and Release of Tension, July 02, 2024</div>
-  </div>
+  <figure class="gallery-item">
+    <img src="/images/after viva.jpg" alt="Memory after Viva Voce Exam">
+    <figcaption class="caption">Memory after Viva Voce Exam: Relief and Release of Tension, July 02, 2024</figcaption>
+  </figure>
 
 </div>
+
