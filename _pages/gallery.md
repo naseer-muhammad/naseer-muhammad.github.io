@@ -60,4 +60,9 @@ A few memorable moments from my academic journey — research, collaboration, an
     <div class="caption">Lab portrait, TCMP, Universitas Indonesia, 2024</div>
   </div>
 
+  <div class="gallery-item">
+    <img src="/images/after viva.jpg" alt="Memory after Viva Vose Exam">
+    <div class="caption">Memory after Viva Voce Exam: Relief and Release of Tension, July 02, 2024</div>
+  </div>
+
 </div>
