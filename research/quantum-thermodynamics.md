@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Quantum Sensing with the help of Nitrogen-Vacancy Centers"
-permalink: /research/quantum-sensing-nv-centers/
+permalink: /research/quantum-thermodynamics/
 author_profile: true
 ---
 
