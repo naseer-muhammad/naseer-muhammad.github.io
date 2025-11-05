@@ -4,19 +4,48 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
+# main:
+#   - title: "Research Direction"
+#     url: /research/ 
+    
+#   - title: "Publications"
+#     url: /publications/   
+
+#   - title: "Teaching"
+#     url: /teaching/    
+    
+#    - title: "Blog"
+#     url: /blog/
+        
+#   - title: "Seminars and conferences"
+#     url: /seminars/
+    
+#   - title: "CV"
+#     url: /cv/
+    
+#   - title: "References"
+#     url: /references/
+
+
+# The following is the order of the links in the header of the website.
+#
+# Changing the order here will adjust the order and you can also add additional
+# links. Removing a link prevents it from showing in the header, but does not
+# prevent it from being included in the site.
+
 main:
   - title: "Research Direction"
-    url: /research/ 
+    url: /research/
     
   - title: "Publications"
-    url: /publications/   
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /publications/
     
-   - title: "Blog"
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "Blog"
     url: /blog/
-        
+    
   - title: "Seminars and conferences"
     url: /seminars/
     
