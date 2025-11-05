@@ -210,6 +210,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  posts:
+    output: true
+    permalink: /blog/:title/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -222,6 +225,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
@@ -388,11 +392,3 @@ main:
 #     url: /blog/
 #   - title: "Contact"
 #     url: /contact/
-
-
-    # Blog Settings
-collections:
-  posts:
-    output: true
-    permalink: /blog/:title/
-
