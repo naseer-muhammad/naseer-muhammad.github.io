@@ -46,11 +46,14 @@ main:
   - title: "Blog"
     url: /blog/
     
-  - title: "Seminars and conferences"
-    url: /seminars/
-    
   - title: "CV"
     url: /cv/
     
   - title: "References"
     url: /references/
+    
+  - title: "Gallery"
+    url: /gallery/
+
+
+     
