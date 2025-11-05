@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Hybrid Quantum Systems and Their Control"
-permalink: /research/hybrid-quantum-systems/
+permalink: /research/hybrid-qubits/
 author_profile: true
 ---
 
