@@ -47,12 +47,12 @@ A few memorable moments from my academic journey — research, collaboration, an
 
   <div class="gallery-item">
     <img src="/images/with PI at Universitas Indonesia.jpg" alt="with PI at Universitas Indonesia">
-    <div class="caption">With Supervisors and Group colleague(2024)</div>
+    <div class="caption">With Supervisors and Group colleague, 2024</div>
   </div>
 
   <div class="gallery-item">
-    <img src="/images/Master Graduation.jpg" alt="Master Graduation">
-    <div class="caption">Graduation ceremony with colleagues (2024)</div>
+    <img src="/images/speech.png" alt="Master Graduation">
+    <div class="caption">Presentation at Jakarta State University, 2024</div>
   </div>
 
   <div class="gallery-item">
