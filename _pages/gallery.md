@@ -36,6 +36,8 @@ author_profile: false
   font-size: 0.9rem;
   font-style: italic;
   color: #666;
+  display: block;
+  line-height: 1.3;
 }
 </style>
 
