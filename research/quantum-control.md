@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Superconducting Circuit QED and Strong Coupling Regimes"
-permalink: /research/superconducting-cqed/
+permalink: /research/quantum-control/
 author_profile: true
 ---
 
