@@ -36,31 +36,6 @@ I am actively seeking a **PhD position** in the research field of **optimal cont
 
 ---
 
-# Education
-
-- **M.Sc. Physics (CGPA: 3.68/4.00)** — [Universitas Indonesia](https://www.ui.ac.id/en/)  
-- **B.Sc. Applied Physics** — [Federal Urdu University of Arts, Science and Technology, Islamabad](https://fuuastisb.edu.pk/)  
-- **Associate Bachelor’s (Physics & Mathematics)** — [University of the Punjab](https://www.pu.edu.pk/)  
-
----
-
-#  Research Interests
-
-- Nitrogen-Vacancy (NV) centers in diamond  
-- Superconducting quantum circuits  
-- Quantum optics and hybrid systems  
-
----
-
-# Current Role
-
-Since **August 2024**, I have been working as a **Physics Lecturer** at  
-[F.G Sir Syed College, Mall Road, Saddar, Rawalpindi](https://fgssc.edu.pk/),  
-teaching undergraduate courses in:  
-- *Quantum Mechanics*  
-- *Electromagnetism*  
-
----
 
 ## 🗞️ Latest Blog Posts
 
