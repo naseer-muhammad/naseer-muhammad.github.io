@@ -21,8 +21,6 @@ redirect_from:
 
 
 Thanks for visiting my website!  
-Here you can find information about my background, research, and academic journey.
-
 ---
 
 # About Me
