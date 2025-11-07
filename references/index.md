@@ -5,7 +5,7 @@ permalink: /references/
 author_profile: true
 ---
 
-Below are my **academic and professional references**.
+Below are my **academic references**.
 
 - **Prof. Muhammad Aziz Majidi**, <br>
   Email: aziz.majidi@sci.ui.ac.id  <br>
