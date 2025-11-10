@@ -69,6 +69,11 @@ A few memorable moments from my academic journey — research, collaboration, an
     <figcaption class="caption">Lab portrait, TCMP, Universitas Indonesia, 2024</figcaption>
   </figure>
 
+   <figure class="gallery-item">
+    <img src="/images/with UP diliman.jpg" alt="After a fruitful Discussion with a Research from UP Diliman, UI Depok.">
+    <figcaption class="caption">Great time with a great personality from UP Diliman, Dr. Vladimir, June 2024</figcaption>
+  </figure>
+
   <figure class="gallery-item">
     <img src="/images/after viva.jpg" alt="Memory after Viva Voce Exam">
     <figcaption class="caption">Memory after Viva Voce Exam: Relief and Release of Tension, July 02, 2024</figcaption>
