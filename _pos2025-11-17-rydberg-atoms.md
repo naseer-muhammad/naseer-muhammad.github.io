@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Rydberg Atoms — The Giant Superheroes of the Quantum World"
-date: 2025-11-17
+date: 2025-11-16
 author: "Naseer Muhammad"
 categories: [Quantum Systems, Research]
 tags: [quantum optics, Rydberg atoms, quantum sensing, cold atoms ]
