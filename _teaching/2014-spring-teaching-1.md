@@ -12,4 +12,4 @@ date: 2024-03-01
 - Photon detection and quantum circuits with light,
 - Photon-based quantum technologies
 
-**[Link][https://www.coursera.org/learn/quantum-optics-single-photon]:**
+**[Link]:** [https://www.coursera.org/learn/quantum-optics-single-photon]
