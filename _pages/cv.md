@@ -19,7 +19,12 @@ Work experience
 ======
 * Graduate Research Assistant (GRA), Universiti Sains Malayasia (USM), Penang, Malaysia |April 2022
   * Production of Graphene Oxide from Coconut Biomass
-  * Analysis of produced Grapehen Oxide
+  * Analysis of produced Graphene Oxide
+
+* Physics Lecturer: F.G Sir Syed College, Mall Road, Rawalpindi, Pakistan |September 2024 - Present|
+  * Instructor of Course(s):
+     * Quantum Mechanics
+     * Electromagnetism
 
 * Lecturer: ICMS College System, Peshawer, Pakistan |April 2021- March 2022
   * Instructor of Course:
