@@ -21,7 +21,7 @@ That’s a Rydberg atom — a massive, ultra-sensitive atomic giant 😆.
 
 ## Why Do Rydberg Atoms Grow So Huge?
 
-Rydberg atoms have large atomic radius because their outermost electron occupies a state with an extremely large principal quantum number \( n \). Their atomic radius scales as
+Rydberg atoms have large atomic radius because their outermost electron occupies a state with an extremely large principal quantum number `$n$`. Their atomic radius scales as
 
 $$ r \propto n^2 $$
 
