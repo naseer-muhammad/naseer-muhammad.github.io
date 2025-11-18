@@ -22,23 +22,23 @@ That’s a Rydberg atom — a massive, ultra-sensitive atomic giant 😆.
 
 ## Why Do Rydberg Atoms Grow So Huge?
 
-Rydberg atoms have large atomic radius because their outermost electron occupies a state with an extremely large principal quantum number \( n \). Their atomic radius scales as
+Rydberg atoms have large atomic radius because their outermost electron occupies a state with an extremely large principal quantum number ` n `. Their atomic radius scales as
 
 $$ r \propto n^2 $$
 
-So when physicists excite atoms to states like $`n = 50, 100, 200`$, the atom becomes:
+So when physicists excite atoms to states like ` n = 50, 100, 200 `, the atom becomes:
 
 - **100× larger**  
 - **10,000× more polarizable**  
 - **Ultra-sensitive to electric fields**
 
-In fact, at high `$n$`, Rydberg atoms can reach **micrometer** sizes — comparable to *bacteria*!
+In fact, at high ` n `, Rydberg atoms can reach **micrometer** sizes — comparable to *bacteria*!
 
 With great size comes great sensitivity. A Rydberg atom responds dramatically to electric fields, microwaves, THz radiation, and even faint electromagnetic noise — just like superheroes who sense trouble instantly.
 
 ---
 
-## 🔍 What Exactly Is a Rydberg Atom?
+## What Exactly Is a Rydberg Atom?
 
 Any atom, molecule, or semiconductor system with an electron excited to a very high level enters a **Rydberg state**.
 
@@ -50,15 +50,15 @@ $$
 
 where
 
-- `$R_H$` = Rydberg constant  
-- `$n$` = principal quantum number
+- ` R_H ` = Rydberg constant  
+- ` n ` = principal quantum number
 
-As `$n$` increases:
+As ` n ` increases:
 
 - energy spacing shrinks  
 - radius grows  
-- dipole moment increases (`$\propto n^2$`)  
-- polarizability explodes (`$\propto n^7$`)
+- dipole moment increases (` proportional to n^2 `)  
+- polarizability explodes (` proportional to n^7 `)
 
 Rydberg atoms become *giant, exaggerated, highly responsive* versions of normal atoms.
 
@@ -93,8 +93,8 @@ Advantages:
 - High sensitivity  
 - Fast response  
 
-### 📷 *Figure 1 — Rydberg Vapor-Cell Electric-Field Sensor*
-(Use your own image here if you upload one)
+### *Figure 1 — Rydberg Vapor-Cell Electric-Field Sensor*
+<img src="/images/Rb.png" alt="Rydberg Vapor-Cell Electric-Field Sensor" width="700">
 
 
 # Optical Tweezers and Single-Atom Quantum Sensing
@@ -109,7 +109,7 @@ Advantages:
 - Nanometer-scale spatial resolution
 
 - Ability to detect ultra-weak microwave and RF fields
-### 📷 *Figure 1 — Rydberg Vapor-Cell Electric-Field Sensor*
+### *Figure 2 — Rydberg Vapor-Cell Electric-Field Sensor*
 <img src="/images/Tweezers.jpg" alt="Optical Tweezer Single Atom" width="700">
 
 
@@ -133,7 +133,6 @@ Applications include:
 Rydberg systems are evolving from “giant atoms” into quantum tools that will define the next era of sensing and computation.
 
 
-```html
 <!-- Example placeholder you can replace later -->
 <!-- <img src="/images/vaporcell.jpg" alt="Rydberg Vapor-Cell Sensor" width="700"> -->
 
