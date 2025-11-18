@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Quantum Optics 1: Single Photons"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Coursera"
+Instructor(s): Prof. Alain Aspect and Michel Brune
 date: 2014-01-01
 location: "City, Country"
 ---
+**Topics Covered:**
+• Quantum states of light, beam splitters, interferometers,
+• Photon detection and quantum circuits with light
+• Photon-based quantum technologies
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Link:
 ======
 
-Heading 2
-======
-
-Heading 3
+ [Link to the Course][https://www.coursera.org/learn/quantum-optics-single-photon]
 ======
