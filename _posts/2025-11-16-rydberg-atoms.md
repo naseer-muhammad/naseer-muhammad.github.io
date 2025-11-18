@@ -43,7 +43,7 @@ With great size comes great sensitivity. A Rydberg atom responds dramatically to
 Any atom, molecule, or semiconductor system with an electron excited to a very high level enters a **Rydberg state**.
 
 ### *Figure 1 — Rydberg Atom of Rubidium (Rb-37)*
-<img src="/images/Rb.png" alt="Rydberg Vapor-Cell Electric-Field Sensor" width="400">
+<img src="/images/blogs/Rb.png" alt="Rydberg Vapor-Cell Electric-Field Sensor" width="400">
 
 Its energy is described by the classic Rydberg formula:
 
@@ -107,7 +107,7 @@ Advantages:
 
 - Ability to detect ultra-weak microwave and RF fields
 ### *Figure 2 — Rydberg Vapor-Cell Electric-Field Sensor*
-<img src="/images/Tweezers.jpg" alt="Optical Tweezer Single Atom" width="700">
+<img src="/images/blogs/Tweezers.jpg" alt="Optical Tweezer Single Atom" width="700">
 
 
 # The Future of Rydberg Super-Sensors
