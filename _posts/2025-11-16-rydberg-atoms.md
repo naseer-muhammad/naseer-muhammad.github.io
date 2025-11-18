@@ -10,7 +10,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/quantum-banner.jpg
-  caption: "Rydberg Atoms — The Giant Superheroes of the Quantum World"
+  caption: "Rydberg Atoms — The Giant of the Atomic World"
 ---
 
 # Rydberg Atoms — The Giant Superheroes of the Quantum World
@@ -42,7 +42,7 @@ With great size comes great sensitivity. A Rydberg atom responds dramatically to
 
 Any atom, molecule, or semiconductor system with an electron excited to a very high level enters a **Rydberg state**.
 
-### *Figure 1 — Rydberg Atom of Rubidium (Rb)*
+### *Figure 1 — Rydberg Atom of Rubidium (Rb-37)*
 <img src="/images/Rb.png" alt="Rydberg Vapor-Cell Electric-Field Sensor" width="400">
 
 Its energy is described by the classic Rydberg formula:
