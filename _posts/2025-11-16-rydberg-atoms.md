@@ -53,7 +53,7 @@ $$
 
 where
 
-- $ `R_H` $ = Rydberg constant  
+- $$ `R_H` = Rydberg constant   $$ 
 - `n` = principal quantum number
 
 As `n` increases:
