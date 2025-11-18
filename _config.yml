@@ -81,6 +81,18 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+
+# Add MathJax support here ↓↓↓
+markdown: kramdown
+
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+# ↑↑↑ End of MathJax settings
+
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
