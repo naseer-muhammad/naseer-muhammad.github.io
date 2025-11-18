@@ -5,6 +5,7 @@ date: 2025-11-16
 author: "Naseer Muhammad"
 categories: [Quantum Systems, Research]
 tags: [quantum optics, Rydberg atoms, quantum sensing, cold atoms]
+mathjax: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
