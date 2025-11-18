@@ -17,27 +17,29 @@ Education
 
 Work experience
 ======
-* Graduate Research Assistant (GRA), Universiti Sains Malayasia (USM), Penang, Malaysia |April 2022
-  * Production of Graphene Oxide from Coconut Biomass
-  * Analysis of produced Graphene Oxide
-
-* Physics Lecturer: F.G Sir Syed College, Mall Road, Rawalpindi, Pakistan |September 2024 - Present|
+* **Physics Lecturer** *: F.G Sir Syed College, Mall Road, Rawalpindi, Pakistan |September 2024 - Present|
   * Instructor of Course(s):
      * Quantum Mechanics
      * Electromagnetism
 
-* Lecturer: ICMS College System, Peshawer, Pakistan |April 2021- March 2022
+* **Graduate Research Assistant (GRA)**, Universiti Sains Malayasia (USM), Penang, Malaysia |April 2022 - July 2022|
+  * Production of Graphene Oxide from Coconut Biomass
+  * Analysis of produced Graphene Oxide
+
+
+
+* **Lecturer**: ICMS College System, Peshawer, Pakistan |April 2021- March 2022
   * Instructor of Course:
     * Waves and Optics
     * Electromagnetism
     * Introduction to Quantum Mechanics
   
 
-* Subject Instructor: Civil School and College, Rawalpindi, Pakistan |Nov 2019 - April 2021
+* **Subject Instructor**: Civil School and College, Rawalpindi, Pakistan |Nov 2019 - April 2021
   * Instructor of High School Mathematics and Physics
   * Won the <b> Best Science Teacher </b> Award
  
-* Subject Instructor: Kainat School System, Rawalpindi, Pakistan |Aug 2016 - April 2017
+* **Subject Instructor**: Kainat School System, Rawalpindi, Pakistan |Aug 2016 - April 2017
   * Instructor of Mathematics and Physics
 
   
