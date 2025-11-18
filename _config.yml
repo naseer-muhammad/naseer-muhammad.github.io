@@ -87,9 +87,8 @@ markdown: kramdown
 
 kramdown:
   math_engine: mathjax
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
+  parse_block_html: true
+  input: GFM
 # ↑↑↑ End of MathJax settings
 
 
