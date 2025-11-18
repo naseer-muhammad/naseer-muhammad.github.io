@@ -71,13 +71,10 @@ Rydberg atoms become *giant, exaggerated, highly responsive* versions of normal 
 
 Rydberg states follow extreme scaling laws:
 
-- Dipole moment:  
-  $$ d \propto n^2 $$
-- Polarizability:  
-  $$ \alpha \propto n^7 $$
-- Van der Waals interaction:  
-  $$ C_6 \propto n^{11} $$
-
+- $$ d \propto n^2 $$ : Dipole moment  
+- $$ \alpha \propto n^7 $$ : Polarizability
+- $$ C_6 \propto n^{11} $$ : Van der Waals interaction
+  
 This makes them **insanely sensitive** to microwave and terahertz radiation.
 
 Even better:  
