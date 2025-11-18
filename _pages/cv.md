@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* **Physics Lecturer** *: F.G Sir Syed College, Mall Road, Rawalpindi, Pakistan |September 2024 - Present|
+* **Physics Lecturer**: F.G Sir Syed College, Mall Road, Rawalpindi, Pakistan |September 2024 - Present|
   * Instructor of Course(s):
      * Quantum Mechanics
      * Electromagnetism
@@ -77,7 +77,7 @@ Online Courses
   
 Service and Leadership
 ======
-* Project Manager (inter-university event)
+* Project Manager for Football Tournament (inter-university event at USM)
 * Community Representative (Representative of International Community at USM during COVID-19)
 * Hostel Representative
 * Educationist (Volunteer for 2 weeks in Indonesia)
