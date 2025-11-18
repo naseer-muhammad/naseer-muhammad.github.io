@@ -79,5 +79,10 @@ A few memorable moments from my academic journey — research, collaboration, an
     <figcaption class="caption">Memory after Viva Voce Exam: Relief and Release of Tension, July 02, 2024</figcaption>
   </figure>
 
+  <figure class="gallery-item">
+    <img src="/images/proposal.jpg" alt="File Photo after Proposal Defence Exam">
+    <figcaption class="caption">Memory after Proposal Defence Exam, March 19, 2024</figcaption>
+  </figure>
+
 </div>
 
