@@ -22,17 +22,17 @@ That’s a Rydberg atom — a massive, ultra-sensitive atomic giant 😆.
 
 ## Why Do Rydberg Atoms Grow So Huge?
 
-Rydberg atoms have large atomic radius because their outermost electron occupies a state with an extremely large principal quantum number $n$. Their atomic radius scales as
+Rydberg atoms have large atomic radius because their outermost electron occupies a state with an extremely large principal quantum number `n`. Their atomic radius scales as
 
 $$ r \propto n^2 $$
 
-So when physicists excite atoms to states like $n = 50, 100, 200$, the atom becomes:
+So when physicists excite atoms to states like `n = 50, 100, 200`, the atom becomes:
 
 - **100× larger**  
 - **10,000× more polarizable**  
 - **Ultra-sensitive to electric fields**
 
-In fact, at high $n$, Rydberg atoms can reach **micrometer** sizes — comparable to *bacteria*!
+In fact, at high `n`, Rydberg atoms can reach **micrometer** sizes — comparable to *bacteria*!
 
 With great size comes great sensitivity. A Rydberg atom responds dramatically to electric fields, microwaves, THz radiation, and even faint electromagnetic noise — just like superheroes who sense trouble instantly.
 
@@ -43,7 +43,7 @@ With great size comes great sensitivity. A Rydberg atom responds dramatically to
 Any atom, molecule, or semiconductor system with an electron excited to a very high level enters a **Rydberg state**.
 
 ### *Figure 1 — Rydberg Atom of Rubidium (Rb)*
-<img src="/images/Rb.png" alt="Rydberg Vapor-Cell Electric-Field Sensor" width="300">
+<img src="/images/Rb.png" alt="Rydberg Vapor-Cell Electric-Field Sensor" width="400">
 
 Its energy is described by the classic Rydberg formula:
 
@@ -53,10 +53,10 @@ $$
 
 where
 
-- $R_H$ = Rydberg constant  
-- $n$ = principal quantum number
+- $ `R_H` $ = Rydberg constant  
+- `n` = principal quantum number
 
-As $n$ increases:
+As `n` increases:
 
 - energy spacing shrinks  
 - radius grows  
@@ -71,9 +71,12 @@ Rydberg atoms become *giant, exaggerated, highly responsive* versions of normal 
 
 Rydberg states follow extreme scaling laws:
 
-- Dipole moment:  $ d \propto n^2 $
-- Polarizability: $ \alpha \propto n^7 $
-- Van der Waals interaction: $ C_6 \propto n^{11} $
+- Dipole moment:  
+  $$ d \propto n^2 $$
+- Polarizability:  
+  $$ \alpha \propto n^7 $$
+- Van der Waals interaction:  
+  $$ C_6 \propto n^{11} $$
 
 This makes them **insanely sensitive** to microwave and terahertz radiation.
 
@@ -132,5 +135,6 @@ Rydberg systems are evolving from “giant atoms” into quantum tools that will
 
 <!-- Example placeholder you can replace later -->
 <!-- <img src="/images/vaporcell.jpg" alt="Rydberg Vapor-Cell Sensor" width="700"> -->
+
 
 
