@@ -43,7 +43,7 @@ With great size comes great sensitivity. A Rydberg atom responds dramatically to
 Any atom, molecule, or semiconductor system with an electron excited to a very high level enters a **Rydberg state**.
 
 ### *Figure 1 — Rydberg Atom of Rubidium (Rb)*
-<img src="/images/Rb.png" alt="Rydberg Vapor-Cell Electric-Field Sensor" width="500">
+<img src="/images/Rb.png" alt="Rydberg Vapor-Cell Electric-Field Sensor" width="300">
 
 Its energy is described by the classic Rydberg formula:
 
@@ -53,15 +53,15 @@ $$
 
 where
 
-- $ R_H $ = Rydberg constant  
+- $R_H$ = Rydberg constant  
 - `n` = principal quantum number
 
 As `n` increases:
 
 - energy spacing shrinks  
 - radius grows  
-- dipole moment increases ($ proportional to n^2 $)  
-- polarizability explodes ($ proportional to n^7 $)
+- dipole moment increases
+- polarizability explodes
 
 Rydberg atoms become *giant, exaggerated, highly responsive* versions of normal atoms.
 
